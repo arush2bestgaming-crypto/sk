@@ -2,7 +2,7 @@
   "name": "minecraft-afk-bot",
   "version": "20.18.0",
   "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
-  "main": "mpm install",
+  "main": "npm install",
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
