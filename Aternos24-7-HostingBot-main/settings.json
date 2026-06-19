@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "BotisABOT",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "MrCowMan123.aternos.me",
     "port": 58297,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
